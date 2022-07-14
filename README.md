@@ -5,7 +5,7 @@
 
 - 📫 Cómo contactarme **romina-herrera@hotmail.com**
 
-- 📄 Conoce mis experiencias [www.linkedin.com/in/romina-herreramicv](www.linkedin.com/in/romina- herreramicv)
+- 📄 Conoce mis experiencias [www.linkedin.com/in/romina-herreramicv](www.linkedin.com/in/romina-herreramicv)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
