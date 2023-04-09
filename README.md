@@ -1,9 +1,15 @@
-<h1 align="center">Hola 👋, soy Romina Herrera</h1>
-<h3 align="center">Estudiante de programación en ISPC</h3>
+<h1 align="center">Hola 👋, ¡Bienvenidos a mi perfil!</h1>
+<h3 align="center">Estudiante Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales en ISPC | Estudiante en ONE - Oracle Next education </h3>
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo web y app moviles**
+- 🌱 ¡Hola!
+Soy Romina, estudiante de la tecnicatura en Desarrollo Web y de Apps Móviles en el Instituto Superior Politécnico de Córdoba. Además actualmente me encuentro realizando el programa Oracle Next Education donde me estoy capacitando en desarrollo frontend, backend, ciencia de datos y formas de emprender.
 
-- 📫 Cómo contactarme **romina-herrera@hotmail.com**
+Recientemente finalice el diplomado en Administración de Instituciones que me permitió aprender sobre temas relacionados a la contabilidad, gestión de recursos, marketing, administración de proyectos etc
+
+Me considero una persona motivada, proactiva y con mucha predisposición para aprender nuevas actividades. Tengo experiencia tanto en ventas como en atención al cliente, administración y soporte. 
+
+Además, me apasiona la fotografía, el diseño y el marketing digital, gracias a estos cursos realizados considero que estas habilidades complementan mi perfil y me permiten tener una visión más amplia en el desarrollo de proyectos y la gestión de contenidos. Me destaco por ser comunicativa y saber trabajar en equipo. 
+Si buscas una persona responsable y resolutiva no dudes en contactarte conmigo. **¡Mi correo electrónico es romina-herrera@hotmail.com!**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
