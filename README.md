@@ -1,17 +1,41 @@
 <h1 align="center">Hola 👋, ¡Bienvenidos a mi perfil!</h1>
 <h3 align="center">Estudiante Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales en ISPC | Estudiante en ONE - Oracle Next education </h3>
 
-- 🌱 ¡Hola!
-Soy Romina, estudiante de la tecnicatura en Desarrollo Web y de Apps Móviles en el Instituto Superior Politécnico de Córdoba. Además actualmente me encuentro realizando el programa Oracle Next Education donde me estoy capacitando en desarrollo frontend, backend, ciencia de datos y formas de emprender.
+- 🌱 
+¡Hola! Soy Romina, estudiante apasionada de Desarrollo Web y de Apps Móviles en el Instituto Superior Politécnico de Córdoba. Mi trayectoria incluye formación a través del programa Oracle Next Educationen en desarrollo frontend, UX UI, backend, testing, ciencia de datos y emprendimiento. Actualmente finalice la cursada en el programa Codo a Codo la ruta de Developer full stack con Django. Además, completé el diplomado en Administración de Instituciones, ampliando mis conocimientos en gestión de recursos, marketing y administración de proyectos.
 
-Recientemente finalice el diplomado en Administración de Instituciones que me permitió aprender sobre temas relacionados a la contabilidad, gestión de recursos, marketing, administración de proyectos etc
+Tecnologías
 
-Me considero una persona motivada, proactiva y con mucha predisposición para aprender nuevas actividades. Tengo experiencia tanto en ventas como en atención al cliente, administración y soporte. 
+    **Desarrollo Frontend:** HTML, CSS, JavaScript, Angular, Bootstrap, WordPress
+    **UX UI:** Diseño de interfaces, Prototipado
+    **Desarrollo Backend:** Django, Java, sql
+    **Testing:** Selenium
+    **Ciencia de Datos:** Python, Pandas, NumPy
+    **Metodologías de Trabajo:** Agile/Scrum
+    **Desarrollo Móvil:** Android Studio, Java
 
-Además, me apasiona la fotografía, el diseño y el marketing digital, gracias a estos cursos realizados considero que estas habilidades complementan mi perfil y me permiten tener una visión más amplia en el desarrollo de proyectos y la gestión de contenidos. Me destaco por ser comunicativa y saber trabajar en equipo. 
-Si buscas una persona responsable y resolutiva no dudes en contactarte conmigo. **¡Mi correo electrónico es romina-herrera@hotmail.com!**
+
+Herramientas
+
+    ⚙️ Notion
+    ⚙️ Git
+    ⚙️ Trello
+    ⚙️ Github
+    ⚙️ Figma
+
+Cursos y habilidades
+
+    **Diseño y UX/UI:** Fundamentos del diseño, UX/UI, Figma
+    **Fotografía**: Fotografía de producto, Edición en Lightroom y Photoshop
+    **Marketing Digital:** Community Manager
+    **Habilidades:** Comunicativa, Muy buena trabajo en equipo, Responsable, Resolutiva
+
+Con entusiasmo y dedicación, estoy dando mis primeros pasos en el mundo del desarrollo web y UX/UI. Si buscas alguien comprometida y dispuesta a aprender, estaré encantada de ser parte del proyecto. ¡Hagamos equipo!  
+
+
 
 <h3 align="left">Conéctate conmigo:</h3>
+<p< **¡Mi correo electrónico es romina-herrera@hotmail.com!**
 <p align="left">
 <a href="https://linkedin.com/in/romina-herreramicv" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="romina-herreramicv"height="30" width="40" /></a>
 </p>
