@@ -31,11 +31,10 @@
   - **Habilidades:** Comunicativa, Muy buena trabajo en equipo, Responsable, Resolutiva
 
 Con entusiasmo y dedicación, estoy dando mis primeros pasos en el mundo del desarrollo web y UX/UI. Si buscas alguien comprometida y dispuesta a aprender, estaré encantada de ser parte del proyecto. ¡Hagamos equipo!    
-
+**¡Mi correo electrónico es romina-herrera@hotmail.com!**
 
 
 <h3 align="left">Conéctate conmigo:</h3>
-<p< **¡Mi correo electrónico es romina-herrera@hotmail.com!**
 <p align="left">
 <a href="https://linkedin.com/in/romina-herreramicv" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="romina-herreramicv"height="30" width="40" /></a>
 </p>
