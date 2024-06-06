@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Perfil de Romi</title>
+<title>Mi perfil Romina Herrera</title>
 </head>
 <body>
 
@@ -43,7 +43,7 @@
 <p>Con entusiasmo y dedicación, estoy dando mis primeros pasos en el mundo del desarrollo web y UX/UI. Si buscas a alguien comprometido y dispuesto a aprender, estaré encantada de formar parte de tu proyecto. ¡Hagamos equipo!</p>
 
 <p>¡Puedes contactarme a través de mi correo electrónico: <a href="mailto:romina-herrera@hotmail.com">romina-herrera@hotmail.com</a>!</p>
-<a href="https://herre.pythonanywhere.com/">
+<a href="https://herre.pythonanywhere.com/">Mi Porfolio</a>
 <h3>Perfil Laboral</h3>
 <p>
   <a href="https://linkedin.com/in/romina-herreramicv" target="_blank">
