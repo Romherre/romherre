@@ -9,9 +9,9 @@
 
 <h1 style="text-align: center;">¡Hola! 👋 ¡Bienvenidos a mi perfil!</h1>
 
-<h3 style="text-align: center;">Soy Romi, estudiante de la Tecnicatura en Analista de Sistemas en Escuela Da Vinci. A lo largo de mi trayectoria académica, he completado varios cursos relacionados con el desarrollo web y UX/UI. Tuve la oportunidad de participar en la capacitación gratuita proporcionada por Oracle a través del programa "Estudiante en ONE - Oracle Next Education".</h3>
+<h3 style="text-align: center;">"Soy Romi, estudiante de la Tecnicatura en Analista de Sistemas en la Escuela Da Vinci. Durante mi recorrido académico, he completado varios cursos en el ámbito del desarrollo web y UX/UI. Además, tuve la oportunidad de participar en la capacitación gratuita ofrecida por Oracle a través del programa "Estudiante en ONE - Oracle Next Education".</h3>
 
-<p>🌱 Mi formación incluye el programa Oracle Next Education en desarrollo frontend, UX/UI, backend, ciencia de datos y emprendimiento. Ademas, finalicé el programa "Codo a Codo" en la ruta de Desarrollador Full Stack con Django y actualmente estoy cursando UX Research. Además, completé un diplomado en Administración de Instituciones, lo que amplió mis conocimientos en gestión de recursos, marketing y administración de proyectos.</p>
+<p>🌱 Mi formación abarca el programa Oracle Next Education, donde he adquirido conocimientos en desarrollo frontend, UX/UI, backend, ciencia de datos y emprendimiento. Recientemente, culminé el programa "Codo a Codo" especializado en Desarrollo Full Stack con Django, y actualmente estoy inmersa en el estudio de UX Research. Además, completé un diplomado en Administración de Instituciones en la Universidad Tecnológica Nacional (UTN), lo que ha enriquecido mis habilidades en gestión de recursos, marketing y administración de proyectos.</p>
 
 <h3>Tecnologías</h3>
 <ul>
