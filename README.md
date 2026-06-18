@@ -39,6 +39,8 @@
 - **Kiosco SIM (Turista)** — Pantalla interactiva de bienvenida con selector de idioma y flujo de autogestión de SIM. [Demo en vivo](https://romherre.github.io/turistas/) | [Código](https://github.com/Romherre/turistas)
 - **Sistema de Gestión de Cursos y Alumnos** — Trabajo final en Laravel 9 para gestión académica (alumnos, docentes, cursos, evaluaciones). [Código](https://github.com/Romherre/sistema-gestion-cursos-Romina-Herrera-davinci)
 
+- **Landing Page — Gisele López (Psicóloga)** — Sitio freelance para psicóloga clínica con enfoque psicoanalítico: banner, sección "Sobre mí" con experiencia profesional y formulario de contacto funcional (Formspree). [Demo en vivo](https://romherre.github.io/psicologa-gisele-lopez/) | [Código](https://github.com/Romherre/psicologa-gisele-lopez)
+
 ### 🤝 Proyectos en equipo
 
 - **PURCHASE** — App de finanzas personales (Trabajo Final de Carrera, Escuela Da Vinci). Stack: React · PostgreSQL · Flutter · Firebase.
