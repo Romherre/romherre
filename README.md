@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=D946EF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Romina+Herrera+%F0%9F%91%8B;Analista+Funcional+Jr.;Gestion+de+Incidencias+%7C+Atencion+a+Usuarios;Cursando+Tecnicatura+en+Analisis+de+Sistemas" alt="Typing SVG" />
+<h1>¡Hola! 👋 Soy Romina Herrera</h1>
+<h3>Analista Funcional Jr. · Gestión de Incidencias · Atención a Usuarios · Cursando Tecnicatura en Análisis de Sistemas</h3>
 
 <p>Más de 18 años de experiencia en telecomunicaciones, logística y servicios, gestionando incidencias, soporte a usuarios y coordinación interáreas. Actualmente cursando el último año de la Tecnicatura en Análisis de Sistemas, sumando práctica en desarrollo web, SQL, UX Research y gestión de proyectos.</p>
 
