@@ -38,6 +38,11 @@
   <li><strong>Marketing Digital:</strong> Community Manager</li>
   <li><strong>Habilidades:</strong> Comunicativa, Trabajo en equipo, Responsable, Resolutiva</li>
 </ul>
+<h3>Proyectos Destacados</h3>
+<ul>
+  <li><strong>Sinergia Logística</strong> — Plataforma web de gestión de pedidos para empresas de logística (Django, panel por cliente, KPIs, reportes). <a href="https://sinergia-xhec.onrender.com" target="_blank">Ver demo en vivo</a> | <a href="https://github.com/Romherre/sinergia" target="_blank">Ver código</a></li>
+  <li><strong>Simulador de Financiación</strong> — Herramienta web para armar propuestas de venta con distintas formas de pago y generar el mensaje final para el cliente. <a href="https://romherre.github.io/simulador-financiacion/" target="_blank">Ver demo en vivo</a> | <a href="https://github.com/Romherre/simulador-financiacion" target="_blank">Ver código</a></li>
+</ul>
 
 <p>Con entusiasmo y dedicación, estoy dando mis primeros pasos en el mundo del desarrollo web y UX/UI. Si buscas a alguien comprometido y dispuesto a aprender, estaré encantada de formar parte de tu proyecto. ¡Hagamos equipo!</p>
 
