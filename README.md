@@ -36,7 +36,8 @@
 
 - **Sinergia Logística** — Plataforma web de gestión de pedidos para empresas de logística (Django, panel por cliente, KPIs, reportes). [Demo en vivo](https://sinergia-xhec.onrender.com) | [Código](https://github.com/Romherre/sinergia)
 - **Simulador de Financiación** — Herramienta web para armar propuestas de venta con distintas formas de pago. [Demo en vivo](https://romherre.github.io/simulador-financiacion/) | [Código](https://github.com/Romherre/simulador-financiacion)
-- **Kiosco SIM (Turista)** — Pantalla interactiva de bienvenida con selector de idioma y flujo de autogestión de SIM. [Demo en vivo](https://romherre.github.io/turistas/) | [Código](https://github.com/Romherre/turistas)
+- **Intercar Logística** — Landing page de práctica para una empresa ficticia de logística y e-commerce: servicios, diferenciales y formulario de contacto. [Demo en vivo](https://romherre.github.io/intercar-logistica/) | [Código](https://github.com/Romherre/intercar-logistica)
+- **Anne studio** — Landing page de práctica para un estudio de maquillaje profesional, con servicios, propuesta de marca y contacto. [Demo en vivo](https://romherre.github.io/anne-studio/) | [Código](https://github.com/Romherre/anne-studio)
 - **Sistema de Gestión de Cursos y Alumnos** — Trabajo final en Laravel 9 para gestión académica (alumnos, docentes, cursos, evaluaciones). [Código](https://github.com/Romherre/sistema-gestion-cursos-Romina-Herrera-davinci)
 
 - **Landing Page — Gisele López (Psicóloga)** — Sitio freelance para psicóloga clínica con enfoque psicoanalítico: banner, sección "Sobre mí" con experiencia profesional y formulario de contacto funcional (Formspree). [Demo en vivo](https://romherre.github.io/psicologa-gisele-lopez/) | [Código](https://github.com/Romherre/psicologa-gisele-lopez)
