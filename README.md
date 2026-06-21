@@ -43,8 +43,8 @@
 ### 🤝 Proyectos en equipo
 
 - **PURCHASE** — App de finanzas personales (Trabajo Final de Carrera, Escuela Da Vinci). Stack: React · PostgreSQL · Flutter · Firebase.
-- **UX / Accesibilidad Digital — Fundación CILSA** — Relevamiento de usuarios, wireframes y prototipo interactivo en Figma. [Código](https://github.com/Romherre/Fundacion-reparar-cilsa)
-- **STUDESK — UX Research (Codo a Codo, Agencia de Aprendizaje)** — Investigación de usuarios para una app de organización de estudios, en equipo con Juan Pablo García, Delfina Julieta Troncoso y Myriam Leal. [Ver presentación](https://canva.link/3la52bfudjn5sot)
+- **Red Reparar — Fundación CILSA** — Proyecto en equipo para la Fundación Reparar: hago desarrollo web como programadora, además del relevamiento de usuarios, wireframes y prototipado en Figma. [Demo en vivo](https://red-reparar.vercel.app) | [Código](https://github.com/christianberti/red-reparar)-
+-  **STUDESK — UX Research (Codo a Codo, Agencia de Aprendizaje)** — Investigación de usuarios para una app de organización de estudios, en equipo con Juan Pablo García, Delfina Julieta Troncoso y Myriam Leal. [Ver presentación](https://canva.link/3la52bfudjn5sot)
 
 ### 📊 Actividad en GitHub
 
