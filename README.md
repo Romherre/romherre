@@ -70,7 +70,6 @@ Si buscás a alguien comprometido, resolutivo y con experiencia real coordinando
   <a href="https://linkedin.com/in/romina-herreramicv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-romina--herreramicv-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https:/https://romherre.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-herre.pythonanywhere.com-84CC16?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
+    <a href="https://romherre.github.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-romherre.github.io-84CC16?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
