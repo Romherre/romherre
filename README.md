@@ -5,8 +5,6 @@
 
 <p>Más de 18 años de experiencia en telecomunicaciones, logística y servicios, gestionando incidencias, soporte a usuarios y coordinación interáreas. Actualmente cursando el último año de la Tecnicatura en Análisis de Sistemas, sumando práctica en desarrollo web, SQL, UX Research y gestión de proyectos.</p>
 
-<img src="https://komarev.com/ghpvc/?username=Romherre&style=for-the-badge&color=8A2BE2&label=Visitas" alt="visitor badge" />
-
 </div>
 
 ---
