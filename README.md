@@ -55,8 +55,8 @@
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Romherre&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D946EF&icon_color=84CC16&text_color=C9D1D9&ring_color=8A2BE2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romherre&layout=compact&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=C9D1D9&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/Romherre/github-stats/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/Romherre/github-stats/generated/languages.svg" />
 </p>
 
 <p align="center">
