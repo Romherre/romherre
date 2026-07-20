@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Romherre&hide_border=true&background=0D1117&ring=D946EF&fire=84CC16&currStreakLabel=D946EF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8A2BE2" />
+  <img src="https://raw.githubusercontent.com/Romherre/romherre/main/profile/streak.svg" />
 </p>
 
 Si buscás a alguien comprometido, resolutivo y con experiencia real coordinando equipos y procesos, ¡hablemos!
