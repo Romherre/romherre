@@ -55,7 +55,6 @@
 ### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Romherre/github-stats/generated/overview.svg" />
   <img src="https://raw.githubusercontent.com/Romherre/github-stats/generated/languages.svg" />
 </p>
 
