@@ -19,7 +19,7 @@ jobs:
 
       - uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=Romherre&background=0D1117&ring=D946EF&fire=84CC16&currStreakLabel=D946EF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8A2BE2&hide_border=true
+          options: user=Romherre&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=24292F&fire=FF6600&currStreakNum=24292F&sideNums=24292F&currStreakLabel=57606A&sideLabels=57606A&dates=57606A&hide_border=false
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
